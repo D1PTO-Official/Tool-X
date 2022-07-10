@@ -1,4 +1,7 @@
 # Tool-X
+
+# Tool-X v2.0
+
 # How to Install in termux ?
 
 Open the termux app and type following commands.
